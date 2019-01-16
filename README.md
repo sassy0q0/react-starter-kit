@@ -1,4 +1,4 @@
-# React Starter Kit
+# React Starter Kit
 
 ## 概要
 
