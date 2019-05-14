@@ -14,5 +14,5 @@
 
 ## 元ネタ
 
-[React & TypeScript をシンプルに始める(create-react-appなし)](https://qiita.com/taqm/items/ffcc363cb56f872967a4)
-[ReactをTypeScriptで書ける環境で、ReduxのTutorialをしてみる](https://qiita.com/IgnorantCoder/items/88f13569cbf0a1c5eaa1)
+- [React & TypeScript をシンプルに始める(create-react-appなし)](https://qiita.com/taqm/items/ffcc363cb56f872967a4)
+- [ReactをTypeScriptで書ける環境で、ReduxのTutorialをしてみる](https://qiita.com/IgnorantCoder/items/88f13569cbf0a1c5eaa1)
